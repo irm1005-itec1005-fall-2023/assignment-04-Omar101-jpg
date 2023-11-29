@@ -19,14 +19,7 @@
   background-color: aqua;
   padding: 10px;
 }
-.todo-app{
-  width: 100%;
-  max-width: 540px;
-  background: white;
-  margin: 100px auto 20px;
-  padding: 40px 30px 70px;
-  border-radius: 10px;
-}
+
 .todo-app h2{
   color: #002765;
   display: flex;
@@ -42,6 +35,15 @@
   padding-left: 20px;
   margin-bottom: 25px;
 }
+.todo-app{
+  width: 100%;
+  max-width: 540px;
+  background: white;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 10px;
+}
+
 input{
   flex: 1;
   border: none;
