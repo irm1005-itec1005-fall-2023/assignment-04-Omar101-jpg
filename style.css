@@ -38,7 +38,7 @@
 .todo-app{
   width: 100%;
   max-width: 540px;
-  background: white;
+  background: rgb(130, 67, 67);
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
@@ -102,4 +102,9 @@ ul li span{
 }
 ul li span:hover{
   background:#edeef0;
+}
+img{
+  max-width: 300px;
+  max-height: 500px;
+ position: inherit;
 }
